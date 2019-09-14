@@ -1,6 +1,6 @@
 # PCA-and-k-means-on-synthetic-dataset
 
-PCA amd k-means
+PCA and k-means
 
 ### Goal:
 
